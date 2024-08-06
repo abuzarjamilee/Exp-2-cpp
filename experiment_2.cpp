@@ -1,5 +1,5 @@
-//sumit pandey 23070123133 
-//experiment 2
+//Abuzar 
+//23070123158
 #include<iostream>
 using namespace std;
 int main(){
