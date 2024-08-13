@@ -8,3 +8,5 @@ C++ supports various data types, including Character (char), Integer (int), Bool
 Double Floating point (double), Void (), and Wide Character sizeof() operator. These data types can have modifiers, such as Short Long 
 Signed Unsigned, which can increase or decrease the variable's size. For example, Long can extend an integer to 4 bytes. The storage representation
 and machine instructions for each data type differ from machine to machine.
+
+outpute of code :-![image](https://github.com/user-attachments/assets/b3820b37-5f32-4cec-a5f7-8bdcc25fed3b)
