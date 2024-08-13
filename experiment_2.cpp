@@ -12,17 +12,17 @@ int main(){
     cin>>b;
 
     if(b>0 && b<200  && a>0 && a<250){
-     //--------COMPARISON OPERATOR //-------LOGICAL OPERATORS
+     //COMPARISON OPERATOR & LOGICAL OPERATORS
 
-         add=a+b;   //--------ARITHMETIC OPERATORS  //--------ASSIGNMENT OPERATOR
-         sub=a-b;   //--------ARITHMETIC OPERATORS
-         div=a/b;   //--------ARITHMETIC OPERATORS 
-         prod=a*b;  //--------ARITHMETIC OPERATORS
-         mod=a%b;   //--------ARITHMETIC OPERATORS
+         add=a+b;   //ARITHMETIC OPERATORS 
+         sub=a-b;   
+         div=a/b;    
+         prod=a*b;  
+         mod=a%b;   
 
        
-         ++a;       //------INCREMENT OPERATOR
-         --b;       //------DECREMENT OPERATOR
+         ++a;       //INCREMENT OPERATOR
+         --b;       //DECREMENT OPERATOR
          
 
     
@@ -41,7 +41,7 @@ int main(){
         cout<<endl<<"CHECK THE VALUES OF A AND B, IT SHOULD BE LESS THAN 250(for A) AND 200(for B)"<<endl;
         cout<<"                                    or"<<endl;
         cout<<"               ENTER NON-ZERO NUMBER FOR THE VALUE OF A and B"<<endl<<endl<<endl<<endl;
-    };  //--------COMPARISON OPERATOR
+    }; //COMPARISON OPERATOR
 
     return 0;
 }
